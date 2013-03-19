@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="2" extheight="448" extwidth="3264" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="400.0" height="384" id="0" name="Space" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="3200">
+    <layers>
+        <layer color="100,168,234" id="0" name="Layer 0" order="0"/>
+    </layers>
+    <color-bg blue="0" green="0" red="0"/>
+    <backgrounds>
+        <ref id="9"/>
+    </backgrounds>
+    <foregrounds/>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="34" c="false" group="3" id="7" name="Copy of Enemy 34" sx="1.0" sy="1.0" x="461" y="104" z="0"/>
+        <actor a="0.0" aid="35" c="false" group="3" id="7" name="Copy of Enemy 35" sx="1.0" sy="1.0" x="360" y="259" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="3" id="0" name="Max 8" sx="1.0" sy="1.0" x="195" y="192" z="0"/>
+        <actor a="0.0" aid="17" c="false" group="3" id="2" name="Enemy 17" sx="1.0" sy="1.0" x="195" y="-360" z="0"/>
+        <actor a="0.0" aid="23" c="false" group="3" id="7" name="Copy of Enemy 23" sx="1.0" sy="1.0" x="672" y="323" z="0"/>
+        <actor a="0.0" aid="22" c="false" group="3" id="7" name="Copy of Enemy 22" sx="1.0" sy="1.0" x="190" y="50" z="0"/>
+        <actor a="0.0" aid="24" c="false" group="3" id="7" name="Copy of Enemy 24" sx="1.0" sy="1.0" x="91" y="303" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="15">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="true"/>
+            <prop id="3" list="0" val="11"/>
+        </s>
+    </snippets>
+    <terrain/>
+</scene>
